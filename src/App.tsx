@@ -23,6 +23,9 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
+          <div>test1</div>
+          <div>test2</div>
+          <div>test3</div>
         </p>
       </div>
       <p className="read-the-docs">
